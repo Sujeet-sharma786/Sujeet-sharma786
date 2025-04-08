@@ -8,7 +8,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;∘ 💬 LinkedIn: [Sujeet Sharma](https://www.linkedin.com/in/sujeet-sharma-19a306237/)
 
 # 💻 Skills & Technology
+
 ---
+
 **Programming Languages** 
 
 &nbsp;&nbsp;&nbsp;&nbsp;● ![JavaScript](https://img.shields.io/badge/JavaScript-white?style=flat&logo=javascript&logoColor=yellow&bgColor=white) 
